@@ -161,7 +161,7 @@ def write_to_excel(data, output_path):
 
 if __name__ == "__main__":
     input_file = "1.xlsx"
-    output_file = "带坐标的企业数据.xlsx"
+    output_file = "Address_With_GPS.xlsx"
     batch_size = 20
 
     companies = read_excel_data(input_file)
@@ -191,7 +191,7 @@ if __name__ == "__main__":
         
 
         input_excel = output_file
-        output_kml = "带坐标的企业数据.kml"
+        output_kml = "Address_With_GPS.kml"
         excel_to_kml(input_excel, output_kml)
         print("\n处理完成！结果文件已保存，请在Google Earth中导入KML文件")
 
