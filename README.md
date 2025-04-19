@@ -10,8 +10,7 @@
 
    **示例**：
 
-   JIRBZ-U2D3Z-JJPXW-7FHM4-BIPB6-ABCDE
-   
+   JIRBZ-U2D3Z-JJPXW-7FHM4-BIPB6-ABCDE   
    ketYpUGiZRIWFzr7Ow5W05GmXFABCDE
 
    > 可在 [腾讯位置服务控制台](https://lbs.qq.com/) 的 **控制台 → 应用管理 → 我的应用** 找到，Secret Key 需点击“编辑”查看。
