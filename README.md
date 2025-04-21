@@ -3,7 +3,7 @@
 
 ## 用法：
 
-1. **创建API密钥**  
+1. **创建API密钥（该服务是免费的）**
    - 打开[腾讯位置服务](https://lbs.qq.com/) ，登录，点击[控制台 → 应用管理 → 我的应用](https://lbs.qq.com/dev/console/application/mine)，  
    - 点击添加key，输入名称（可随意填写），勾选“WebService API”，点击“签名校验”，“阅读并同意”，最后点“添加”即可；   
    - 创建key成功，点击[“立即前往分配”](https://lbs.qq.com/dev/console/quota/account)，翻到第二页，点击“地址解析”的“配额分配”，打开你刚刚创建的key的配额分配，并填入一个比较合适的值（本程序默认的并发量是一秒5次），提交。
