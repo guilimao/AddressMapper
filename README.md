@@ -33,3 +33,4 @@
 6. **查看结果**  
    - 安装[**Google Earth Pro**](https://support.google.com/earth/answer/168344#zippy=%2C%E4%B8%8B%E8%BD%BD-google-%E5%9C%B0%E7%90%83-pro-%E7%9B%B4%E6%8E%A5%E5%AE%89%E8%A3%85%E7%A8%8B%E5%BA%8F)，双击 KML 文件，用**Google Earth Pro**打开。
    - 也可以选择在[网页端](https://earth.google.com/web)/[移动端](https://play.google.com/store/apps/details?id=com.google.earth)的 **Google Earth** 中导入 KML 文件。
+   - 对于中国用户，[奥维互动地图](https://www.ovital.com/download/) 是个更好的选择。
