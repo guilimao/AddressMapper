@@ -5,9 +5,9 @@
 
 1. **创建API密钥（该服务是免费的）**
    - 打开[腾讯位置服务](https://lbs.qq.com/) ，登录，点击[控制台 → 应用管理 → 我的应用](https://lbs.qq.com/dev/console/application/mine)，  
-   - 点击添加key，输入名称（可随意填写），勾选“WebService API”，点击“签名校验”，“阅读并同意”，最后点“添加”即可；   
-   - 创建key成功，点击[“立即前往分配”](https://lbs.qq.com/dev/console/quota/account)，翻到第二页，点击“地址解析”的“配额分配”，打开你刚刚创建的key的配额分配，并填入一个比较合适的值（本程序默认的并发量是一秒5次），提交。
-   - 打开[应用管理 → 我的应用](https://lbs.qq.com/dev/console/application/mine)，把所需的**key**复制下来，再点击编辑，把**Secret Key**复制下来。
+   - 点击添加 key，输入名称（可随意填写），勾选 “WebService API” ，点击“签名校验”，“阅读并同意”，最后点“添加”即可；   
+   - 创建 key 成功，点击[“立即前往分配”](https://lbs.qq.com/dev/console/quota/account)，翻到第二页，点击“地址解析”的“配额分配”，打开你刚刚创建的 key 的配额分配，并填入一个比较合适的值（本程序默认的并发量是一秒5次），提交。
+   - 打开[应用管理 → 我的应用](https://lbs.qq.com/dev/console/application/mine)，把所需的 **key** 复制下来，再点击编辑，把 **Secret Key** 复制下来。
    
 
 2. **配置API密钥**  
@@ -31,4 +31,5 @@
    双击运行 `AddressMapper.exe`，程序会自动生成 KML 文件。
 
 5. **查看结果**  
-   在 **Google Earth Pro** 中，通过菜单栏的 **文件 → 打开** 导入生成的 KML 文件。
+   - 安装[**Google Earth Pro**](https://support.google.com/earth/answer/168344#zippy=%2C%E4%B8%8B%E8%BD%BD-google-%E5%9C%B0%E7%90%83-pro-%E7%9B%B4%E6%8E%A5%E5%AE%89%E8%A3%85%E7%A8%8B%E5%BA%8F)，双击 KML 文件，用**Google Earth Pro**打开。
+   - 也可以选择在网页端/移动端的 **Google Earth** 打开 KML 文件。
