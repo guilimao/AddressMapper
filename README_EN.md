@@ -1,7 +1,8 @@
 # Convert Text Addresses to Geographic Coordinates on a Map
 
 [English Version](README_EN.md) | [中文版](README.md)
-  ature Verification", read and agree to the terms, then click "Add".  
+   - Visit [Tencent Location Service](https://lbs.qq.com/), log in, and go to [Console → Application Management → My Apps](https://lbs.qq.com/dev/console/application/mine).  
+   - Click "Add Key," enter a name (can be arbitrary), check "WebService API," click "Sigature Verification", read and agree to the terms, then click "Add".  
    - After successfully creating the key, click ["Quota Management -> Account Limit"](https://lbs.qq.com/dev/console/quota/account), scroll to the second page(If you have translated the web page, there may be display problems here. Just select the fourth line), and click "Quota Allocation" under "Geocoding." Click quota allocation(below the "operate" col) for your newly created key and set an appropriate value (the default concurrency for this program is 5 requests per second), then submit.  
    - Go back to [Application Management → My Apps](https://lbs.qq.com/dev/console/application/mine), copy the **Key**, then click **"Edit"** and copy the **Secret Key**.  
 
