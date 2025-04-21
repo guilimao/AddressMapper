@@ -1,5 +1,7 @@
 # Convert Text Addresses to Geographic Coordinates on a Map
 
+[English Version](README_EN.md) | [中文版](README.md)
+
 ## Usage:
 
 1. **Create an API Key (This service is free)**  
