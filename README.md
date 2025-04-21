@@ -1,6 +1,8 @@
 
 # 将文字地址转换成地图上的坐标标记
 
+[English Version](README_EN.md) | [中文版](README.md)
+
 ## 用法：
 
 1. **创建API密钥（该服务是免费的）**
